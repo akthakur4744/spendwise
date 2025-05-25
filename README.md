@@ -21,9 +21,9 @@ Here's a glimpse of the SpendWise application:
 ![Dashboard View](https://github.com/akthakur4744/spendwise/blob/master/docs/Screenshot%202025-05-25%20at%203.38.33%E2%80%AFPM.png)
 *<p align="center">A placeholder image of the SpendWise dashboard, showcasing overview stats, spending breakdown, and recent activity.</p>*
 
-**Budgets Page:**
-![Budgets Page](hhttps://github.com/akthakur4744/spendwise/blob/master/docs/Screenshot%202025-05-25%20at%203.38.51%E2%80%AFPM.png)
-*<p align="center">A placeholder image of the Budgets page, where users can set and track their spending goals.</p>*
+**AI generated Smart Insights:**
+![AI generated Smart Insights ](https://github.com/akthakur4744/spendwise/blob/master/docs/Screenshot%202025-05-25%20at%203.38.51%E2%80%AFPM.png)
+*<p align="center">A placeholder image of the AI generated Smart Insights, where users can set and track their spending goals.</p>*
 
 *(Note: These are placeholder images. Actual UI may vary.)*
 
