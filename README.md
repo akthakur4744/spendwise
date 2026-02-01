@@ -1,4 +1,4 @@
-# Firebase Studio SpendWise
+# Firebase Studio powered SpendWise
 
 This is a NextJS starter in Firebase Studio for SpendWise, a personal finance management application.
 
